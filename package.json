@@ -1,0 +1,27 @@
+{
+  "name": "Discord Bot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realBitCoz/discord_bot.git"
+  },
+  "keywords": [
+    "Discord Bot"
+  ],
+  "author": "BitCoz#4561",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/realBitCoz/discord_bot/issues"
+  },
+  "homepage": "https://github.com/realBitCoz/discord_bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.11.9"
+  }
+}
